@@ -59,7 +59,10 @@
             font-size: 14px;
         }
         .skills ul {
-            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            list-style: style;
             padding: 0;
         }
         .skills ul li {
