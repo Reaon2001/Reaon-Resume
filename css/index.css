@@ -66,12 +66,12 @@
             padding: 0;
         }
         .skills ul li {
-            display: inline-block;
             background: #007bff;
-            color: #fff;
-            padding: 5px 10px;
-            margin: 5px 5px 5px 0;
-            border-radius: 4px;
+            color: white;
+            padding: 8px 14px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
         }
 
         @media (min-width: 768px) {
