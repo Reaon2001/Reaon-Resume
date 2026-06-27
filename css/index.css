@@ -24,7 +24,8 @@
         h1 {
             text-align: center;
             font-size: 3rem;
-            letter-spacing: 2px
+            letter-spacing: 2px;
+            color: #8b0000;
         }
         h2 {
             color: #007bff;
