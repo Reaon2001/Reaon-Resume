@@ -48,10 +48,17 @@
         .contact {
             font-size: .95px;
         }
+
         .contact a {
             color: #8b0000;
             text-decoration: none;
         }
+
+        .contact a:hover {
+            color: #8b0000;
+            text-decoration: none;
+        }
+
         .section {
             margin: 20px 0;
         }
