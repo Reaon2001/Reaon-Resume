@@ -106,6 +106,10 @@
             transition: .3s;
         }
 
+        .skills li:hover {
+            
+        }
+
         @media (min-width: 768px) {
     main {
         max-width: 1000px;
