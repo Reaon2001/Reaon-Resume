@@ -88,6 +88,9 @@
             margin: 5px 0;
             font-size: 14px;
         }
+
+            /* ===== SKILLS ===== */
+
         .skills ul {
             display: flex;
             flex-wrap: wrap;
