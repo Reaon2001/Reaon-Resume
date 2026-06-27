@@ -103,6 +103,7 @@
             padding: 8px 14px;
             border-radius: 20px;
             font-weight: bold;
+            transition: .3s;
         }
 
         @media (min-width: 768px) {
