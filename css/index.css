@@ -44,15 +44,9 @@
             color: #8b0000;
             margin-bottom: 10px;
         }
-        .header {
-            text-align: center;
-        }
-        .header h1 {
-            margin: 10px 0;
-        }
+        
         .contact {
-            margin: 10px 0;
-            font-size: 14px;
+            font-size: .95px;
         }
         .contact a {
             color: #007bff;
