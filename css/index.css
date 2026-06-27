@@ -91,12 +91,9 @@
             /* ===== SKILLS ===== */
 
         .skills ul {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            list-style: style;
-            padding: 0;
+            
         }
+
         .skills ul li {
             background: #007bff;
             color: white;
