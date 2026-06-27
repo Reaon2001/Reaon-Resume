@@ -91,6 +91,7 @@
             /* ===== SKILLS ===== */
 
         .skills ul {
+            display: flex;
             
         }
 
