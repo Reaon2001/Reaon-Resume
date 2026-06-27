@@ -113,5 +113,8 @@
 
         @media print {
     
-            
+            body {
+                background: white;
+                padding: 0;
+            }
 }
