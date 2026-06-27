@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-           /* ===== RESUME ===== */
+           /* ===== PAGE ===== */
 
         body {
             font-family: "Segoe UI", Arial, sans-serif;
@@ -16,7 +16,7 @@
             padding: 40px;
         }
 
-           /* ===== PAGE ===== */
+           /* ===== RESUME ===== */
 
         .container {
             max-width: 900px;
