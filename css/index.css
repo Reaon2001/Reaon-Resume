@@ -37,7 +37,8 @@
             color: #8b0000;
             margin-bottom: 10px;
         }
-        h2 {
+
+        .header h1 {
             color: #007bff;
         }
         .header {
