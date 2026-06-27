@@ -16,8 +16,8 @@
             background:
             radial-gradient(circle at top left,
             rgba(139,0,0.08),
-            transparent 35%)
-
+            transparent 35%),
+            linear-gradient(#f8f3e8, #ef36d4);
         }
 
            /* ===== RESUME ===== */
