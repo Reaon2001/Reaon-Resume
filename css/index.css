@@ -108,16 +108,10 @@
 
         .skills li:hover {
             background: #b22222;
-            
+            transform: translateX(-2px)
         }
 
-        @media (min-width: 768px) {
-    main {
-        max-width: 1000px;
-        margin: 0 auto;
-    }
-
-    section {
-        padding: 1rem;
-    }
+        @media print {
+    
+            
 }
