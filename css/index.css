@@ -62,13 +62,15 @@
             /* ===== SECTIONS ===== */
 
         .section {
-            margin: 20px 0;
+            margin: 35px 0;
         }
+
         .section h2 {
             margin-bottom: 10px;
             border-bottom: 2px solid #007bff;
             padding-bottom: 5px;
         }
+
         .item {
             margin-bottom: 15px;
         }
