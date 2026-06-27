@@ -67,10 +67,10 @@
 
         .section h2 {
             font-family: Georgia, serif;
-            color: #8b0000
+            color: #8b0000;
             font-size: 1.4rem;
             border-left: 8px solid #8b0000;
-            
+            padding-left: 12px;
         }
 
         .item {
