@@ -40,9 +40,12 @@
             color: #8b0000;
             margin-bottom: 10px;
         }
-        
+
+            /* Contact line */
+            
         .contact {
             font-size: .95px;
+            opacity: 0.85
         }
 
         .contact a {
