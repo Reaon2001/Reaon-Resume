@@ -109,6 +109,11 @@
                 border-radius: 6px;
             }
             
+            .item h3 {
+                font-size: 1.1rem;
+                margin-bottom: 5px;
+            }
+
             
 
         @media print {
