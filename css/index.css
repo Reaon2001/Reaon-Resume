@@ -74,42 +74,9 @@
             padding-left: 12px;
         }
 
-            /* ===== ITEMS ===== */
+            /* ===== PARAGRAPHS ===== */
         
-        .item {
-            margin-bottom: 20px;
-        }
-        .item h3 {            
-            color: #4b1c1c;
-            margin-bottom: 6px;
-        }
-
-        .item p {
-            margin-top: 6px
-        }
-
-            /* ===== SKILLS ===== */
-
-        .skills ul {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 12px;
-            list-style: none;
-        }
-
-        .skills ul li {
-            background: #007bff;
-            color: white;
-            padding: 8px 14px;
-            border-radius: 20px;
-            font-weight: bold;
-            transition: .3s;
-        }
-
-        .skills li:hover {
-            background: #b22222;
-            transform: translateX(-2px)
-        }
+        
 
         @media print {
     
