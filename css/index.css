@@ -123,6 +123,11 @@
                 color:#8b0000
             }
 
+            .item p {
+                font-size: 0.95rem;
+                opacity: 0.85;
+            }
+
             
 
         @media print {
