@@ -115,7 +115,7 @@
         }
 
         .item p {
-                margin-top: 6px
+            margin-top: 6px
         }
 
             /* ===== Responsive ===== */
@@ -123,8 +123,8 @@
         @media {
     
             .container {
-                margin: 20px;
-                padding: 15px;
+               max-width: 1000px;
+               margin: 0 auto;
             }
 
             .heeader h1 {
@@ -133,5 +133,6 @@
 
             .skills ul {
                 flex-direction: column;
-            }
-}
+        }
+
+    }
