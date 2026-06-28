@@ -76,7 +76,9 @@
 
             /* ===== PARAGRAPHS ===== */
         
-        
+        .section p {
+            
+        }
 
         @media print {
     
