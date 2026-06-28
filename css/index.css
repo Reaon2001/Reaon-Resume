@@ -120,19 +120,13 @@
 
             /* ===== Responsive ===== */
 
-        @media {
-    
+         @media (min-width: 768px) {
             .container {
-               max-width: 1000px;
-               margin: 0 auto;
+                max-width: 1000px;
+                margin: 0 auto;
             }
 
-            .heeader h1 {
-                font-size: 2rem;
+            .section {
+                : 1rem;
             }
-
-            .skills ul {
-                flex-direction: column;
-        }
-
-    }
+}
