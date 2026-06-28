@@ -45,15 +45,12 @@
             letter-spacing: 2px;
             color: #8b0000;
             margin-bottom: 10px;
-            
         }
 
             /* Contact line */
             
         .contact {
-            font-size: .95px;
-            opacity: 0.85;
-            line-height: 1.8;
+            font-size: 0.95rem;
         }
 
         .contact a {
