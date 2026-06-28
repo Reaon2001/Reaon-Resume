@@ -91,6 +91,16 @@
                 margin-top: 10px;
             }
 
+            .skills li {
+                background: rgba(220, 20, 60, 0.15);
+                border: 1px solid #8b0000;
+                padding: 8px 12px;
+                border-radius: 20px;
+                font-size: 0.9rem;
+            }
+
+            
+
         @media print {
     
             body {
