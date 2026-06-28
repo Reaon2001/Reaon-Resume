@@ -103,20 +103,20 @@
              transition: all 0.3s ease;
         }
 
-                /* ===== Project + Education Items ===== */
+            /* ===== Project + Education Items ===== */
 
-            .item {
-                margin-bottom: 20px;
-            }
+        .item {
+             margin-bottom: 20px;
+        }
             
-            .item h3 {
-                color: #4b1c1c;
-                margin-bottom: 6px;
-            }
+        .item h3 {
+            color: #4b1c1c;
+            margin-bottom: 6px;
+        }
 
-            .item p {
+        .item p {
                 margin-top: 6px
-            }
+        }
 
             /* ===== Responsive ===== */
 
