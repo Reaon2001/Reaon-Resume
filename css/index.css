@@ -111,16 +111,7 @@
             
             .item h3 {
                 color: #4b1c1c;
-                margin-bottom: 5px;
-            }
-
-            .item h3 a {
-                color: #0f0f0f;
-                text-decoration: none;
-            }
-
-            .item h3 a:hover {
-                color:#8b0000
+                margin-bottom: 6px;
             }
 
             .item p {
