@@ -130,14 +130,18 @@
 
             /* ===== Responsive ===== */
 
-        @media print {
+        @media {
     
-            body {
-                background: white;
-                padding: 0;
+            .container {
+                margin: 20px;
+                padding: 15px;
             }
 
-            .container {
-                box-shadow: none;
+            .heeader h1 {
+                font-size: 2rem;
+            }
+
+            .skills ul {
+                flex-direction: column;
             }
 }
