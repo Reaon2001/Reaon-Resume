@@ -46,7 +46,7 @@
         .contact {
             font-size: .95px;
             opacity: 0.85;
-            line-height: 1.8
+            line-height: 1.8;
         }
 
         .contact a {
@@ -62,7 +62,7 @@
             /* ===== SECTIONS ===== */
 
         .section {
-            margin: 35px 0;
+            margin-top: 25px;
         }
 
         .section h2 {
