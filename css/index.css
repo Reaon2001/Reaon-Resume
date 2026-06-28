@@ -119,6 +119,10 @@
                 text-decoration: none;
             }
 
+            .item h3 a:hover {
+                color:#8b0000
+            }
+
             
 
         @media print {
