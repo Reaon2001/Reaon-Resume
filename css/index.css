@@ -115,8 +115,7 @@
             }
 
             .item p {
-                font-size: 0.95rem;
-                opacity: 0.85;
+                margin-top: 6px
             }
 
             /* ===== Responsive ===== */
