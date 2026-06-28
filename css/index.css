@@ -92,7 +92,7 @@
              flex-wrap: wrap;
              gap: 12px;
              list-style: none;
-}
+        }
 
         .skills ul li {
              background: #8b0000;
@@ -101,7 +101,7 @@
              border-radius: 20px;
              font-weight: bold;
              transition: all 0.3s ease;
-}
+        }
 
                 /* ===== Project + Education Items ===== */
 
