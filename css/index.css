@@ -70,11 +70,12 @@
         }
 
         .section h2 {
+            font-family: Georgia, serif;
             color: #8b0000;
             font-size: 1.4rem;
-            margin-bottom: 10px;
-            border-left: 4px solid #8b0000;
+            border-left: 8px solid #8b0000;
             padding-left: 12px;
+            margin-bottom: 18px;
         }
 
             /* ===== PARAGRAPHS ===== */
@@ -105,11 +106,7 @@
                 /* ===== Project + Education Items ===== */
 
             .item {
-                margin-top: 15px;
-                padding: 20px;
-                border-left: 3px solid #8b0000;
-                background: rgba(255, 255, 255, 0.3);
-                border-radius: 6px;
+                margin-bottom: 20px;
             }
             
             .item h3 {
