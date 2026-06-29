@@ -132,9 +132,7 @@
             font-weight: bold;
             border: 2px solid #8b0000;
             border-radius: 8px;
-            transition: all 0.25s ease-in-out;
-            position: relative;
-            overflow: hidden;
+            transition: all 0.3s ease;
         }
 
         .navigation a:hover {
@@ -144,10 +142,10 @@
         }
 
             /* ACTIVE PAGE STYLE */
+
         .navigation a.active {
             background: #8b0000;
             color: #fffdf8;
-            box-shadow: 0 0 15px rgba(139, 0, 0, 0.4);
         }
 
             /* ===== Responsive ===== */
